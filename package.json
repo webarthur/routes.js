@@ -1,0 +1,31 @@
+{
+  "name": "routes.js",
+  "version": "1.0.0",
+  "description": "Smallest pushState JavaScript router",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webarthur/routes.js.git"
+  },
+  "keywords": [
+    "javascript",
+    "router",
+    "pushState",
+    "vanillajs"
+  ],
+  "author": "Arthur Araújo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webarthur/routes.js/issues"
+  },
+  "homepage": "https://github.com/webarthur/routes.js#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.5.4",
+    "gulp-util": "^3.0.7"
+  }
+}
